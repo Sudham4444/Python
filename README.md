@@ -1,5 +1,5 @@
-# python
-basics of python -> 
+# Python
+basics of python -> <br> 
 Chapter 0 – Command line and development environment setup <br>
 Chapter 1 – Python basics , operators , calculations <br>
 Chapter 2 – All about strings <br>
